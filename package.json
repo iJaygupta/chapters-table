@@ -1,0 +1,20 @@
+{
+  "name": "niyo-api-server",
+  "version": "1.0.0",
+  "description": "API server created for the purpose of assignment for candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "api",
+    "server",
+    "assignment"
+  ],
+  "author": "Sarath Nair",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}

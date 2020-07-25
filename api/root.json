@@ -1,0 +1,68 @@
+{
+    "maths": [
+      {
+        "childrenCount": 9,
+        "id": 4443990,
+        "sequenceNO": 1,
+        "title": "Ratios",
+        "type": "chapter",
+        "completeCount": 9
+      },
+      {
+        "childrenCount": 10,
+        "id": 4443993,
+        "sequenceNO": 2,
+        "title": "Rates and Percentages",
+        "type": "chapter",
+        "completeCount": 4
+      },
+      {
+        "childrenCount": 11,
+        "id": 4429482,
+        "sequenceNO": 3,
+        "title": "Division with Fractions",
+        "type": "chapter",
+        "completeCount": 0
+      },
+      {
+        "childrenCount": 10,
+        "id": 4429484,
+        "sequenceNO": 4,
+        "title": "Operations with Decimals and Whole Numbers",
+        "type": "chapter",
+        "completeCount": 10
+      },
+      {
+        "childrenCount": 11,
+        "id": 4429490,
+        "sequenceNO": 8,
+        "title": "Rational Numbers",
+        "type": "chapter",
+        "completeCount": 2
+      },
+      {
+        "childrenCount": 9,
+        "id": 4429495,
+        "sequenceNO": 6,
+        "title": "Expressions",
+        "type": "chapter",
+        "completeCount": 4
+      },
+      {
+        "childrenCount": 9,
+        "id": 4429496,
+        "sequenceNO": 7,
+        "title": "Equations",
+        "type": "chapter",
+        "completeCount": 0
+      },
+      {
+        "childrenCount": 0,
+        "id": 1131520,
+        "sequenceNO": 5,
+        "title": "Fractions Explained in Depth",
+        "type": "lesson",
+        "status": "COMPLETE"
+      }
+    ]
+  }
